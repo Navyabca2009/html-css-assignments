@@ -1,0 +1,8 @@
+First, we open a browser.
+And type an URL(https://github.com/Assignment) on a search bar and press enter.
+then browser check the URL IP address first in its cheche and if its not found then ask for the IP address from the DNS system.
+DNS(DOMAIN NAME SYSTEM) convert the domain name in to IP address.
+then browser connects with web server through that IP address.
+now browser sends request to the web server .
+Then ,web server process it and respond to the browser in the required file( html, css, javascript ).
+Browser will execute the respond and display the output. 
